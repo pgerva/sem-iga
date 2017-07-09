@@ -1,0 +1,2186 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.6.25)  9 JUL 2017 14:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**igasem.tex
+(./igasem.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count87
+\float@exts=\toks14
+\float@box=\box26
+\@float@everytoks=\toks15
+\@floatcapt=\box27
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks16
+\c@algorithm=\count88
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\c@ALC@unique=\count89
+\c@ALC@line=\count90
+\c@ALC@rem=\count91
+\c@ALC@depth=\count92
+\ALC@tlm=\skip43
+\algorithmicindent=\skip44
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen103
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks20
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks21
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks22
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psfrag/psfrag.sty
+Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\pfg@pcount=\count106
+\pfg@scount=\count107
+\pfg@temp=\write3
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks24
+\verbatim@line=\toks25
+\verbatim@in@stream=\read1
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/changebar/changebar.sty
+Package: changebar 2005/09/18 v3.5c Indicate changes with marginal bars
+\cb@nextpoint=\count108
+\cb@topleft=\count109
+\cb@topright=\count110
+\cb@botleft=\count111
+\cb@botright=\count112
+\cb@cnta=\count113
+\cb@cntb=\count114
+\cb@dima=\dimen114
+\cb@curbarwd=\dimen115
+\cb@page=\count115
+\cb@pagecount=\count116
+\cb@odd@left=\dimen116
+\cb@odd@right=\dimen117
+\cb@even@left=\dimen118
+\cb@even@right=\dimen119
+\cb@writexy=\write4
+\cb@readxy=\read2
+\openout4 = `igasem.cb2'.
+
+\changebarwidth=\skip48
+\deletebarwidth=\skip49
+\changebarsep=\skip50
+\c@changebargrey=\count117
+\cb@write=\write5
+\cb@read=\read3
+\openout5 = `igasem.cb'.
+
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/changes/changes.sty
+Package: changes 2012/04/25 v1.0.0 changes-Paket
+
+*** changes-Paket 2012/04/25 v1.0.0 ***
+(/usr/local/texlive/2013/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+\XKV@depth=\count118
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2009/04/17 v1.3 Extended ifthen features
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count119
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count120
+\calc@Bcount=\count121
+\calc@Adimen=\dimen120
+\calc@Bdimen=\dimen121
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count122
+\calc@Cskip=\skip53
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/pdfcolmk.sty
+Package: pdfcolmk 2008/08/11 v1.2 Color support for pdfTeX via marks (HO)
+Package pdfcolmk Info: The color stack of pdfTeX >= 1.40 is used. Therefore
+(pdfcolmk)             this package is not necessary and not loaded.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box30
+\UL@hyphenbox=\box31
+\UL@skip=\skip54
+\UL@hook=\toks28
+\UL@height=\dimen122
+\UL@pe=\count123
+\UL@pixel=\dimen123
+\ULC@box=\box32
+Package: ulem 2012/05/18
+\ULdepth=\dimen124
+)
+\c@Changes@AuthorCount=\count124
+\c@Changes@Author=\count125
+\c@Changes@AddCount=\count126
+\c@Changes@DeleteCount=\count127
+\c@Changes@ReplaceCount=\count128
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen125
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count129
+\rotFPtop=\skip55
+\rotFPbot=\skip56
+\rot@float@box=\box33
+\rot@mess@toks=\toks29
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen126
+\lightrulewidth=\dimen127
+\cmidrulewidth=\dimen128
+\belowrulesep=\dimen129
+\belowbottomsep=\dimen130
+\aboverulesep=\dimen131
+\abovetopsep=\dimen132
+\cmidrulesep=\dimen133
+\cmidrulekern=\dimen134
+\defaultaddspace=\dimen135
+\@cmidla=\count130
+\@cmidlb=\count131
+\@aboverulesep=\dimen136
+\@belowrulesep=\dimen137
+\@thisruleclass=\count132
+\@lastruleclass=\count133
+\@thisrulewidth=\dimen138
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/mh/mathtools.sty
+Package: mathtools 2013/02/12 v1.13 mathematical typesetting tools
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/mh/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count134
+\l_MT_multwidth_dim=\dimen139
+\origjot=\skip57
+\l_MT_shortvdotswithinadjustabove_dim=\dimen140
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen141
+\l_MT_above_intertext_sep=\dimen142
+\l_MT_below_intertext_sep=\dimen143
+\l_MT_above_shortintertext_sep=\dimen144
+\l_MT_below_shortintertext_sep=\dimen145
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box34
+)
+\tc@llx=\dimen146
+\tc@lly=\dimen147
+\tc@urx=\dimen148
+\tc@ury=\dimen149
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen150
+\adjbox@Height=\dimen151
+\adjbox@Depth=\dimen152
+\adjbox@Totalheight=\dimen153
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
+\c@checkoddpage=\count135
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box35
+\sift@deathcycles=\count136
+\@vwid@loff=\dimen154
+\@vwid@roff=\dimen155
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip58
+\@affilsep=\skip59
+\c@Maxaffil=\count137
+\c@authors=\count138
+\c@affil=\count139
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen156
+\extrarowheight=\dimen157
+\NC@list=\toks30
+\extratabsurround=\skip60
+\backup@length=\skip61
+)
+\TX@col@width=\dimen158
+\TX@old@table=\dimen159
+\TX@old@col=\dimen160
+\TX@target=\dimen161
+\TX@delta=\dimen162
+\TX@cols=\count140
+\TX@ftn=\toks31
+)
+\c@theorem=\count141
+ (./igasem.aux)
+\openout1 = `igasem.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count142
+\scratchdimen=\dimen163
+\scratchbox=\box36
+\nofMPsegments=\count143
+\nofMParguments=\count144
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count145
+\MPscratchDim=\dimen164
+\MPnumerator=\count146
+\makeMPintoPDFobject=\count147
+\everyMPtoPDFconversion=\toks33
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 53.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 53.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+Non-PDF special ignored!
+
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+ [4] [5] [6] [7] [8] [9]
+Package epstopdf Info: Source file: <Images/errH1_3d_p.eps>
+(epstopdf)                    date: 2017-07-02 11:06:06
+(epstopdf)                    size: 19371 bytes
+(epstopdf)             Output file: <Images/errH1_3d_p-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-02 11:06:12
+(epstopdf)                    size: 7363 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/errH1_3d_p-eps-conv
+erted-to.pdf Images/errH1_3d_p.eps>
+(epstopdf)             \includegraphics on input line 834.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/errH1_3d_p-eps-converted-to.pdf, id=47, 529.98pt x 421.575pt>
+File: Images/errH1_3d_p-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/errH1_3d_p-eps-converted-to.pdf>
+Package pdftex.def Info: Images/errH1_3d_p-eps-converted-to.pdf used on input l
+ine 834.
+(pdftex.def)             Requested size: 204.85802pt x 162.95335pt.
+Package epstopdf Info: Source file: <Images/errL2_3d_p.eps>
+(epstopdf)                    date: 2017-07-02 11:06:06
+(epstopdf)                    size: 19426 bytes
+(epstopdf)             Output file: <Images/errL2_3d_p-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-02 11:06:13
+(epstopdf)                    size: 7570 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/errL2_3d_p-eps-conv
+erted-to.pdf Images/errL2_3d_p.eps>
+(epstopdf)             \includegraphics on input line 835.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/errL2_3d_p-eps-converted-to.pdf, id=48, 529.98pt x 412.54124pt>
+File: Images/errL2_3d_p-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/errL2_3d_p-eps-converted-to.pdf>
+Package pdftex.def Info: Images/errL2_3d_p-eps-converted-to.pdf used on input l
+ine 835.
+(pdftex.def)             Requested size: 204.85802pt x 159.4615pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 834--839
+
+ []
+
+Package epstopdf Info: Source file: <Images/errH1_3d_ha.eps>
+(epstopdf)                    date: 2017-07-02 11:06:06
+(epstopdf)                    size: 27097 bytes
+(epstopdf)             Output file: <Images/errH1_3d_ha-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-02 11:06:13
+(epstopdf)                    size: 8336 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/errH1_3d_ha-eps-con
+verted-to.pdf Images/errH1_3d_ha.eps>
+(epstopdf)             \includegraphics on input line 858.
+Package epstopdf Info: Output file is already uptodate.
+<Images/errH1_3d_ha-eps-converted-to.pdf, id=49, 529.98pt x 421.575pt>
+File: Images/errH1_3d_ha-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/errH1_3d_ha-eps-converted-to.pdf>
+Package pdftex.def Info: Images/errH1_3d_ha-eps-converted-to.pdf used on input 
+line 858.
+(pdftex.def)             Requested size: 204.85802pt x 162.95335pt.
+Package epstopdf Info: Source file: <Images/errH1_3d_hb.eps>
+(epstopdf)                    date: 2017-07-02 11:06:06
+(epstopdf)                    size: 24832 bytes
+(epstopdf)             Output file: <Images/errH1_3d_hb-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-02 11:06:14
+(epstopdf)                    size: 7560 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/errH1_3d_hb-eps-con
+verted-to.pdf Images/errH1_3d_hb.eps>
+(epstopdf)             \includegraphics on input line 859.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/errH1_3d_hb-eps-converted-to.pdf, id=50, 529.98pt x 421.575pt>
+File: Images/errH1_3d_hb-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/errH1_3d_hb-eps-converted-to.pdf>
+Package pdftex.def Info: Images/errH1_3d_hb-eps-converted-to.pdf used on input 
+line 859.
+(pdftex.def)             Requested size: 204.85802pt x 162.95335pt.
+Package epstopdf Info: Source file: <Images/errL2_3d_ha.eps>
+(epstopdf)                    date: 2017-07-02 11:06:07
+(epstopdf)                    size: 27156 bytes
+(epstopdf)             Output file: <Images/errL2_3d_ha-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-02 11:06:15
+(epstopdf)                    size: 8302 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/errL2_3d_ha-eps-con
+verted-to.pdf Images/errL2_3d_ha.eps>
+(epstopdf)             \includegraphics on input line 860.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/errL2_3d_ha-eps-converted-to.pdf, id=51, 529.98pt x 412.54124pt>
+File: Images/errL2_3d_ha-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/errL2_3d_ha-eps-converted-to.pdf>
+Package pdftex.def Info: Images/errL2_3d_ha-eps-converted-to.pdf used on input 
+line 860.
+(pdftex.def)             Requested size: 204.85802pt x 159.4615pt.
+Package epstopdf Info: Source file: <Images/errL2_3d_hb.eps>
+(epstopdf)                    date: 2017-07-02 11:06:07
+(epstopdf)                    size: 24884 bytes
+(epstopdf)             Output file: <Images/errL2_3d_hb-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-02 11:06:15
+(epstopdf)                    size: 7612 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/errL2_3d_hb-eps-con
+verted-to.pdf Images/errL2_3d_hb.eps>
+(epstopdf)             \includegraphics on input line 861.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/errL2_3d_hb-eps-converted-to.pdf, id=52, 529.98pt x 412.54124pt>
+File: Images/errL2_3d_hb-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/errL2_3d_hb-eps-converted-to.pdf>
+Package pdftex.def Info: Images/errL2_3d_hb-eps-converted-to.pdf used on input 
+line 861.
+(pdftex.def)             Requested size: 204.85802pt x 159.4615pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 858--866
+
+ []
+
+Package epstopdf Info: Source file: <Images/errdofH1_3d_p.eps>
+(epstopdf)                    date: 2017-07-02 11:07:14
+(epstopdf)                    size: 24683 bytes
+(epstopdf)             Output file: <Images/errdofH1_3d_p-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-07-02 11:07:30
+(epstopdf)                    size: 7808 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/errdofH1_3d_p-eps-c
+onverted-to.pdf Images/errdofH1_3d_p.eps>
+(epstopdf)             \includegraphics on input line 920.
+Package epstopdf Info: Output file is already uptodate.
+<Images/errdofH1_3d_p-eps-converted-to.pdf, id=53, 529.98pt x 422.57875pt>
+File: Images/errdofH1_3d_p-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/errdofH1_3d_p-eps-converted-to.pdf>
+Package pdftex.def Info: Images/errdofH1_3d_p-eps-converted-to.pdf used on inpu
+t line 920.
+(pdftex.def)             Requested size: 204.85802pt x 163.34134pt.
+Package epstopdf Info: Source file: <Images/errdofL2_3d_p.eps>
+(epstopdf)                    date: 2017-07-03 12:12:44
+(epstopdf)                    size: 24737 bytes
+(epstopdf)             Output file: <Images/errdofL2_3d_p-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-07-05 18:43:06
+(epstopdf)                    size: 7701 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/errdofL2_3d_p-eps-c
+onverted-to.pdf Images/errdofL2_3d_p.eps>
+(epstopdf)             \includegraphics on input line 921.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/errdofL2_3d_p-eps-converted-to.pdf, id=54, 529.98pt x 413.545pt>
+File: Images/errdofL2_3d_p-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/errdofL2_3d_p-eps-converted-to.pdf>
+Package pdftex.def Info: Images/errdofL2_3d_p-eps-converted-to.pdf used on inpu
+t line 921.
+(pdftex.def)             Requested size: 204.85802pt x 159.84947pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 920--927
+
+ []
+
+[10] [11 <./Images/errH1_3d_p-eps-converted-to.pdf> <./Images/errL2_3d_p-eps-co
+nverted-to.pdf>] [12 <./Images/errH1_3d_ha-eps-converted-to.pdf> <./Images/errH
+1_3d_hb-eps-converted-to.pdf> <./Images/errL2_3d_ha-eps-converted-to.pdf> <./Im
+ages/errL2_3d_hb-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Images/errdofH1_3d_ha.eps>
+(epstopdf)                    date: 2017-07-02 11:07:15
+(epstopdf)                    size: 26625 bytes
+(epstopdf)             Output file: <Images/errdofH1_3d_ha-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-07-02 11:07:31
+(epstopdf)                    size: 8477 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/errdofH1_3d_ha-eps-
+converted-to.pdf Images/errdofH1_3d_ha.eps>
+(epstopdf)             \includegraphics on input line 932.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/errdofH1_3d_ha-eps-converted-to.pdf, id=100, 529.98pt x 422.57875pt>
+File: Images/errdofH1_3d_ha-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/errdofH1_3d_ha-eps-converted-to.pdf>
+Package pdftex.def Info: Images/errdofH1_3d_ha-eps-converted-to.pdf used on inp
+ut line 932.
+(pdftex.def)             Requested size: 204.85802pt x 163.34134pt.
+Package epstopdf Info: Source file: <Images/errdofH1_3d_hb.eps>
+(epstopdf)                    date: 2017-07-02 11:07:15
+(epstopdf)                    size: 24297 bytes
+(epstopdf)             Output file: <Images/errdofH1_3d_hb-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-07-02 11:07:31
+(epstopdf)                    size: 7749 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/errdofH1_3d_hb-eps-
+converted-to.pdf Images/errdofH1_3d_hb.eps>
+(epstopdf)             \includegraphics on input line 933.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/errdofH1_3d_hb-eps-converted-to.pdf, id=101, 529.98pt x 422.57875pt>
+File: Images/errdofH1_3d_hb-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/errdofH1_3d_hb-eps-converted-to.pdf>
+Package pdftex.def Info: Images/errdofH1_3d_hb-eps-converted-to.pdf used on inp
+ut line 933.
+(pdftex.def)             Requested size: 204.85802pt x 163.34134pt.
+Package epstopdf Info: Source file: <Images/errdofL2_3d_ha.eps>
+(epstopdf)                    date: 2017-07-02 11:07:16
+(epstopdf)                    size: 26685 bytes
+(epstopdf)             Output file: <Images/errdofL2_3d_ha-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-07-02 11:07:32
+(epstopdf)                    size: 8351 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/errdofL2_3d_ha-eps-
+converted-to.pdf Images/errdofL2_3d_ha.eps>
+(epstopdf)             \includegraphics on input line 934.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/errdofL2_3d_ha-eps-converted-to.pdf, id=102, 529.98pt x 413.545pt>
+File: Images/errdofL2_3d_ha-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/errdofL2_3d_ha-eps-converted-to.pdf>
+Package pdftex.def Info: Images/errdofL2_3d_ha-eps-converted-to.pdf used on inp
+ut line 934.
+(pdftex.def)             Requested size: 204.85802pt x 159.84947pt.
+Package epstopdf Info: Source file: <Images/errdofL2_3d_hb.eps>
+(epstopdf)                    date: 2017-07-02 11:07:16
+(epstopdf)                    size: 24351 bytes
+(epstopdf)             Output file: <Images/errdofL2_3d_hb-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-07-02 11:07:32
+(epstopdf)                    size: 7799 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/errdofL2_3d_hb-eps-
+converted-to.pdf Images/errdofL2_3d_hb.eps>
+(epstopdf)             \includegraphics on input line 935.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/errdofL2_3d_hb-eps-converted-to.pdf, id=103, 529.98pt x 413.545pt>
+File: Images/errdofL2_3d_hb-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/errdofL2_3d_hb-eps-converted-to.pdf>
+Package pdftex.def Info: Images/errdofL2_3d_hb-eps-converted-to.pdf used on inp
+ut line 935.
+(pdftex.def)             Requested size: 204.85802pt x 159.84947pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--940
+
+ []
+
+[13 <./Images/errdofH1_3d_p-eps-converted-to.pdf> <./Images/errdofL2_3d_p-eps-c
+onverted-to.pdf>] [14 <./Images/errdofH1_3d_ha-eps-converted-to.pdf> <./Images/
+errdofH1_3d_hb-eps-converted-to.pdf> <./Images/errdofL2_3d_ha-eps-converted-to.
+pdf> <./Images/errdofL2_3d_hb-eps-converted-to.pdf>]
+<Images/matiga0_3d.pdf, id=147, 407.5225pt x 390.45876pt>
+File: Images/matiga0_3d.pdf Graphic file (type pdf)
+
+<use Images/matiga0_3d.pdf>
+Package pdftex.def Info: Images/matiga0_3d.pdf used on input line 1024.
+(pdftex.def)             Requested size: 128.0387pt x 122.67342pt.
+
+<Images/matigap_3d.pdf, id=148, 401.5pt x 390.45876pt>
+File: Images/matigap_3d.pdf Graphic file (type pdf)
+
+<use Images/matigap_3d.pdf>
+Package pdftex.def Info: Images/matigap_3d.pdf used on input line 1025.
+(pdftex.def)             Requested size: 128.0387pt x 124.52037pt.
+
+<Images/matsem_3d.pdf, id=149, 407.5225pt x 406.51875pt>
+File: Images/matsem_3d.pdf Graphic file (type pdf)
+
+<use Images/matsem_3d.pdf>
+Package pdftex.def Info: Images/matsem_3d.pdf used on input line 1026.
+(pdftex.def)             Requested size: 128.0387pt x 127.71912pt.
+Package epstopdf Info: Source file: <Images/errnnzH1_3d_p.eps>
+(epstopdf)                    date: 2017-07-02 11:07:16
+(epstopdf)                    size: 22145 bytes
+(epstopdf)             Output file: <Images/errnnzH1_3d_p-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-07-02 11:07:33
+(epstopdf)                    size: 7256 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/errnnzH1_3d_p-eps-c
+onverted-to.pdf Images/errnnzH1_3d_p.eps>
+(epstopdf)             \includegraphics on input line 1047.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/errnnzH1_3d_p-eps-converted-to.pdf, id=150, 529.98pt x 422.57875pt>
+File: Images/errnnzH1_3d_p-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/errnnzH1_3d_p-eps-converted-to.pdf>
+Package pdftex.def Info: Images/errnnzH1_3d_p-eps-converted-to.pdf used on inpu
+t line 1047.
+(pdftex.def)             Requested size: 204.85802pt x 163.34134pt.
+Package epstopdf Info: Source file: <Images/errnnzH1_3d_ha.eps>
+(epstopdf)                    date: 2017-07-02 11:07:17
+(epstopdf)                    size: 22091 bytes
+(epstopdf)             Output file: <Images/errnnzH1_3d_ha-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-07-02 11:07:34
+(epstopdf)                    size: 7525 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/errnnzH1_3d_ha-eps-
+converted-to.pdf Images/errnnzH1_3d_ha.eps>
+(epstopdf)             \includegraphics on input line 1048.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/errnnzH1_3d_ha-eps-converted-to.pdf, id=151, 538.01pt x 422.57875pt>
+File: Images/errnnzH1_3d_ha-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/errnnzH1_3d_ha-eps-converted-to.pdf>
+Package pdftex.def Info: Images/errnnzH1_3d_ha-eps-converted-to.pdf used on inp
+ut line 1048.
+(pdftex.def)             Requested size: 204.85802pt x 160.90399pt.
+Package epstopdf Info: Source file: <Images/errnnzH1_3d_hb.eps>
+(epstopdf)                    date: 2017-07-02 11:07:17
+(epstopdf)                    size: 21462 bytes
+(epstopdf)             Output file: <Images/errnnzH1_3d_hb-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-07-02 11:07:34
+(epstopdf)                    size: 7379 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/errnnzH1_3d_hb-eps-
+converted-to.pdf Images/errnnzH1_3d_hb.eps>
+(epstopdf)             \includegraphics on input line 1049.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/errnnzH1_3d_hb-eps-converted-to.pdf, id=152, 529.98pt x 422.57875pt>
+File: Images/errnnzH1_3d_hb-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/errnnzH1_3d_hb-eps-converted-to.pdf>
+Package pdftex.def Info: Images/errnnzH1_3d_hb-eps-converted-to.pdf used on inp
+ut line 1049.
+(pdftex.def)             Requested size: 204.85802pt x 163.34134pt.
+ [15 <./Images/matiga0_3d.pdf> <./Images/matigap_3d.pdf> <./Images/matsem_3d.pd
+f>] [16 <./Images/errnnzH1_3d_p-eps-converted-to.pdf> <./Images/errnnzH1_3d_ha-
+eps-converted-to.pdf> <./Images/errnnzH1_3d_hb-eps-converted-to.pdf>]
+Overfull \hbox (3.22865pt too wide) in paragraph at lines 1119--1119
+ []|$\OMS/cmsy/m/n/10.95 K\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 M\OT1/cmr/m/n
+/10.95 )$| 
+ []
+
+(./mass_cond_igap.pdf_t <mass_cond_igap.pdf, id=190, 372.39125pt x 307.1475pt>
+File: mass_cond_igap.pdf Graphic file (type pdf)
+
+<use mass_cond_igap.pdf>
+Package pdftex.def Info: mass_cond_igap.pdf used on input line 2.
+(pdftex.def)             Requested size: 372.39034pt x 307.14674pt.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 14.
+
+LaTeX Font Info:    Calculating math sizes for size <20> on input line 14.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13.99994> not available
+(Font)              size <14.4> substituted on input line 14.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <20> not available
+(Font)              size <20.74> substituted on input line 14.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13.99994> not available
+(Font)              size <14.4> substituted on input line 14.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 14.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13.99994> not available
+(Font)              size <14.4> substituted on input line 14.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 14.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <13.99994> not available
+(Font)              size <14.4> substituted on input line 14.
+
+)
+Overfull \hbox (1.4949pt too wide) in paragraph at lines 1124--1124
+ []|$\OMS/cmsy/m/n/10.95 K\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 K\OT1/cmr/m/n
+/10.95 )$| 
+ []
+
+
+Overfull \hbox (2.32304pt too wide) in paragraph at lines 1125--1125
+ []|$\OML/cmm/m/it/10.95 h[]p[]$| 
+ []
+
+(./stiff_cond_iga0.pdf_t
+<stiff_cond_iga0.pdf, id=191, 383.4325pt x 307.1475pt>
+File: stiff_cond_iga0.pdf Graphic file (type pdf)
+
+<use stiff_cond_iga0.pdf>
+Package pdftex.def Info: stiff_cond_iga0.pdf used on input line 2.
+(pdftex.def)             Requested size: 383.43156pt x 307.14674pt.
+) (./stiff_cond_igap.pdf_t
+<stiff_cond_igap.pdf, id=192, 410.53375pt x 310.15875pt>
+File: stiff_cond_igap.pdf Graphic file (type pdf)
+
+<use stiff_cond_igap.pdf>
+Package pdftex.def Info: stiff_cond_igap.pdf used on input line 2.
+(pdftex.def)             Requested size: 410.53275pt x 310.15799pt.
+)
+Overfull \hbox (1.78902pt too wide) in paragraph at lines 1127--1128
+ []|[]| 
+ []
+
+[17 <./mass_cond_igap.pdf> <./stiff_cond_iga0.pdf> <./stiff_cond_igap.pdf>]
+[18]
+Package epstopdf Info: Source file: <Images/iga0_eigM1min.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 133242 bytes
+(epstopdf)             Output file: <Images/iga0_eigM1min-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:00:41
+(epstopdf)                    size: 66000 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigM1min-eps-c
+onverted-to.pdf Images/iga0_eigM1min.eps>
+(epstopdf)             \includegraphics on input line 1251.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigM1min-eps-converted-to.pdf, id=207, 527.9725pt x 408.52625pt>
+File: Images/iga0_eigM1min-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigM1min-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigM1min-eps-converted-to.pdf used on inpu
+t line 1251.
+(pdftex.def)             Requested size: 192.0548pt x 148.6028pt.
+Package epstopdf Info: Source file: <Images/iga0_eigM1smin.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 133288 bytes
+(epstopdf)             Output file: <Images/iga0_eigM1smin-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:00:42
+(epstopdf)                    size: 65944 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigM1smin-eps-
+converted-to.pdf Images/iga0_eigM1smin.eps>
+(epstopdf)             \includegraphics on input line 1252.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigM1smin-eps-converted-to.pdf, id=208, 527.9725pt x 408.52625pt>
+File: Images/iga0_eigM1smin-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigM1smin-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigM1smin-eps-converted-to.pdf used on inp
+ut line 1252.
+(pdftex.def)             Requested size: 192.0548pt x 148.6028pt.
+Package epstopdf Info: Source file: <Images/iga0_eigM1max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 133191 bytes
+(epstopdf)             Output file: <Images/iga0_eigM1max-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:00:43
+(epstopdf)                    size: 66076 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigM1max-eps-c
+onverted-to.pdf Images/iga0_eigM1max.eps>
+(epstopdf)             \includegraphics on input line 1265.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigM1max-eps-converted-to.pdf, id=209, 529.98pt x 408.52625pt>
+File: Images/iga0_eigM1max-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigM1max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigM1max-eps-converted-to.pdf used on inpu
+t line 1265.
+(pdftex.def)             Requested size: 192.0548pt x 148.04178pt.
+Package epstopdf Info: Source file: <Images/iga0_eigM1smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 132723 bytes
+(epstopdf)             Output file: <Images/iga0_eigM1smax-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:00:44
+(epstopdf)                    size: 65654 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigM1smax-eps-
+converted-to.pdf Images/iga0_eigM1smax.eps>
+(epstopdf)             \includegraphics on input line 1266.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigM1smax-eps-converted-to.pdf, id=210, 529.98pt x 408.52625pt>
+File: Images/iga0_eigM1smax-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigM1smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigM1smax-eps-converted-to.pdf used on inp
+ut line 1266.
+(pdftex.def)             Requested size: 192.0548pt x 148.04178pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <Images/iga0_eigM2min.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 44110 bytes
+(epstopdf)             Output file: <Images/iga0_eigM2min-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:00:45
+(epstopdf)                    size: 23501 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigM2min-eps-c
+onverted-to.pdf Images/iga0_eigM2min.eps>
+(epstopdf)             \includegraphics on input line 1279.
+Package epstopdf Info: Output file is already uptodate.
+<Images/iga0_eigM2min-eps-converted-to.pdf, id=211, 541.02126pt x 405.515pt>
+File: Images/iga0_eigM2min-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigM2min-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigM2min-eps-converted-to.pdf used on inpu
+t line 1279.
+(pdftex.def)             Requested size: 192.0548pt x 143.94954pt.
+Package epstopdf Info: Source file: <Images/iga0_eigM2smin.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 44128 bytes
+(epstopdf)             Output file: <Images/iga0_eigM2smin-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:00:46
+(epstopdf)                    size: 23372 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigM2smin-eps-
+converted-to.pdf Images/iga0_eigM2smin.eps>
+(epstopdf)             \includegraphics on input line 1280.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigM2smin-eps-converted-to.pdf, id=212, 541.02126pt x 405.515pt>
+File: Images/iga0_eigM2smin-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigM2smin-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigM2smin-eps-converted-to.pdf used on inp
+ut line 1280.
+(pdftex.def)             Requested size: 192.0548pt x 143.94954pt.
+Package epstopdf Info: Source file: <Images/iga0_eigM2max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 44224 bytes
+(epstopdf)             Output file: <Images/iga0_eigM2max-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:00:47
+(epstopdf)                    size: 23745 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigM2max-eps-c
+onverted-to.pdf Images/iga0_eigM2max.eps>
+(epstopdf)             \includegraphics on input line 1294.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigM2max-eps-converted-to.pdf, id=213, 529.98pt x 405.515pt>
+File: Images/iga0_eigM2max-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigM2max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigM2max-eps-converted-to.pdf used on inpu
+t line 1294.
+(pdftex.def)             Requested size: 192.0548pt x 146.95055pt.
+Package epstopdf Info: Source file: <Images/iga0_eigM2smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 43816 bytes
+(epstopdf)             Output file: <Images/iga0_eigM2smax-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:00:48
+(epstopdf)                    size: 23456 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigM2smax-eps-
+converted-to.pdf Images/iga0_eigM2smax.eps>
+(epstopdf)             \includegraphics on input line 1295.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigM2smax-eps-converted-to.pdf, id=214, 529.98pt x 408.52625pt>
+File: Images/iga0_eigM2smax-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigM2smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigM2smax-eps-converted-to.pdf used on inp
+ut line 1295.
+(pdftex.def)             Requested size: 192.0548pt x 148.04178pt.
+Package epstopdf Info: Source file: <Images/iga0_eigM3min.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 19871 bytes
+(epstopdf)             Output file: <Images/iga0_eigM3min-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:00:49
+(epstopdf)                    size: 11485 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigM3min-eps-c
+onverted-to.pdf Images/iga0_eigM3min.eps>
+(epstopdf)             \includegraphics on input line 1309.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigM3min-eps-converted-to.pdf, id=215, 547.04375pt x 405.515pt>
+File: Images/iga0_eigM3min-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigM3min-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigM3min-eps-converted-to.pdf used on inpu
+t line 1309.
+(pdftex.def)             Requested size: 192.0548pt x 142.3655pt.
+Package epstopdf Info: Source file: <Images/iga0_eigM3smin.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 19912 bytes
+(epstopdf)             Output file: <Images/iga0_eigM3smin-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:00:50
+(epstopdf)                    size: 11374 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigM3smin-eps-
+converted-to.pdf Images/iga0_eigM3smin.eps>
+(epstopdf)             \includegraphics on input line 1310.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigM3smin-eps-converted-to.pdf, id=216, 547.04375pt x 405.515pt>
+File: Images/iga0_eigM3smin-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigM3smin-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigM3smin-eps-converted-to.pdf used on inp
+ut line 1310.
+(pdftex.def)             Requested size: 192.0548pt x 142.3655pt.
+Package epstopdf Info: Source file: <Images/iga0_eigM3max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 19427 bytes
+(epstopdf)             Output file: <Images/iga0_eigM3max-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:00:51
+(epstopdf)                    size: 11762 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigM3max-eps-c
+onverted-to.pdf Images/iga0_eigM3max.eps>
+(epstopdf)             \includegraphics on input line 1324.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigM3max-eps-converted-to.pdf, id=217, 536.0025pt x 405.515pt>
+File: Images/iga0_eigM3max-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigM3max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigM3max-eps-converted-to.pdf used on inpu
+t line 1324.
+(pdftex.def)             Requested size: 192.0548pt x 145.29845pt.
+Package epstopdf Info: Source file: <Images/iga0_eigM3smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 18971 bytes
+(epstopdf)             Output file: <Images/iga0_eigM3smax-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:00:51
+(epstopdf)                    size: 11435 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigM3smax-eps-
+converted-to.pdf Images/iga0_eigM3smax.eps>
+(epstopdf)             \includegraphics on input line 1325.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigM3smax-eps-converted-to.pdf, id=218, 536.0025pt x 408.52625pt>
+File: Images/iga0_eigM3smax-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigM3smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigM3smax-eps-converted-to.pdf used on inp
+ut line 1325.
+(pdftex.def)             Requested size: 192.0548pt x 146.3774pt.
+ [19 <./Images/iga0_eigM1min-eps-converted-to.pdf> <./Images/iga0_eigM1smin-eps
+-converted-to.pdf>] [20 <./Images/iga0_eigM1max-eps-converted-to.pdf> <./Images
+/iga0_eigM1smax-eps-converted-to.pdf> <./Images/iga0_eigM2min-eps-converted-to.
+pdf> <./Images/iga0_eigM2smin-eps-converted-to.pdf>] [21 <./Images/iga0_eigM2ma
+x-eps-converted-to.pdf> <./Images/iga0_eigM2smax-eps-converted-to.pdf> <./Image
+s/iga0_eigM3min-eps-converted-to.pdf> <./Images/iga0_eigM3smin-eps-converted-to
+.pdf>] [22 <./Images/iga0_eigM3max-eps-converted-to.pdf> <./Images/iga0_eigM3sm
+ax-eps-converted-to.pdf>]
+(./stiff_min_iga0.pdf_t
+<stiff_min_iga0.pdf, id=304, 372.39125pt x 320.19624pt>
+File: stiff_min_iga0.pdf Graphic file (type pdf)
+
+<use stiff_min_iga0.pdf>
+Package pdftex.def Info: stiff_min_iga0.pdf used on input line 2.
+(pdftex.def)             Requested size: 372.39034pt x 320.19545pt.
+) (./stiff_max_iga0.pdf_t
+<stiff_max_iga0.pdf, id=305, 372.39125pt x 323.2075pt>
+File: stiff_max_iga0.pdf Graphic file (type pdf)
+
+<use stiff_max_iga0.pdf>
+Package pdftex.def Info: stiff_max_iga0.pdf used on input line 2.
+(pdftex.def)             Requested size: 372.39034pt x 323.20671pt.
+) (./stiff_cond_iga0.pdf_t
+File: stiff_cond_iga0.pdf Graphic file (type pdf)
+ <use stiff_cond_iga0.pdf>
+Package pdftex.def Info: stiff_cond_iga0.pdf used on input line 2.
+(pdftex.def)             Requested size: 383.43156pt x 307.14674pt.
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <Images/iga0_eigK1min.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 129959 bytes
+(epstopdf)             Output file: <Images/iga0_eigK1min-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:00:52
+(epstopdf)                    size: 67410 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigK1min-eps-c
+onverted-to.pdf Images/iga0_eigK1min.eps>
+(epstopdf)             \includegraphics on input line 1401.
+Package epstopdf Info: Output file is already uptodate.
+<Images/iga0_eigK1min-eps-converted-to.pdf, id=306, 527.9725pt x 408.52625pt>
+File: Images/iga0_eigK1min-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigK1min-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigK1min-eps-converted-to.pdf used on inpu
+t line 1401.
+(pdftex.def)             Requested size: 192.0548pt x 148.6028pt.
+Package epstopdf Info: Source file: <Images/iga0_eigK1smin.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 130223 bytes
+(epstopdf)             Output file: <Images/iga0_eigK1smin-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:00:53
+(epstopdf)                    size: 67122 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigK1smin-eps-
+converted-to.pdf Images/iga0_eigK1smin.eps>
+(epstopdf)             \includegraphics on input line 1402.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigK1smin-eps-converted-to.pdf, id=307, 527.9725pt x 408.52625pt>
+File: Images/iga0_eigK1smin-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigK1smin-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigK1smin-eps-converted-to.pdf used on inp
+ut line 1402.
+(pdftex.def)             Requested size: 192.0548pt x 148.6028pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <Images/iga0_eigK1max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 132501 bytes
+(epstopdf)             Output file: <Images/iga0_eigK1max-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:00:54
+(epstopdf)                    size: 67320 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigK1max-eps-c
+onverted-to.pdf Images/iga0_eigK1max.eps>
+(epstopdf)             \includegraphics on input line 1414.
+Package epstopdf Info: Output file is already uptodate.
+<Images/iga0_eigK1max-eps-converted-to.pdf, id=308, 521.95pt x 386.44376pt>
+File: Images/iga0_eigK1max-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigK1max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigK1max-eps-converted-to.pdf used on inpu
+t line 1414.
+(pdftex.def)             Requested size: 192.0548pt x 142.19179pt.
+Package epstopdf Info: Source file: <Images/iga0_eigK1smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 132450 bytes
+(epstopdf)             Output file: <Images/iga0_eigK1smax-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:00:56
+(epstopdf)                    size: 67347 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigK1smax-eps-
+converted-to.pdf Images/iga0_eigK1smax.eps>
+(epstopdf)             \includegraphics on input line 1415.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigK1smax-eps-converted-to.pdf, id=309, 521.95pt x 386.44376pt>
+File: Images/iga0_eigK1smax-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigK1smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigK1smax-eps-converted-to.pdf used on inp
+ut line 1415.
+(pdftex.def)             Requested size: 192.0548pt x 142.19179pt.
+Package epstopdf Info: Source file: <Images/iga0_eigK2min.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 41621 bytes
+(epstopdf)             Output file: <Images/iga0_eigK2min-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:00:56
+(epstopdf)                    size: 23518 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigK2min-eps-c
+onverted-to.pdf Images/iga0_eigK2min.eps>
+(epstopdf)             \includegraphics on input line 1426.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigK2min-eps-converted-to.pdf, id=310, 541.02126pt x 405.515pt>
+File: Images/iga0_eigK2min-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigK2min-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigK2min-eps-converted-to.pdf used on inpu
+t line 1426.
+(pdftex.def)             Requested size: 192.0548pt x 143.94954pt.
+Package epstopdf Info: Source file: <Images/iga0_eigK2smin.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 41758 bytes
+(epstopdf)             Output file: <Images/iga0_eigK2smin-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:00:57
+(epstopdf)                    size: 23377 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigK2smin-eps-
+converted-to.pdf Images/iga0_eigK2smin.eps>
+(epstopdf)             \includegraphics on input line 1427.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigK2smin-eps-converted-to.pdf, id=311, 541.02126pt x 405.515pt>
+File: Images/iga0_eigK2smin-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigK2smin-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigK2smin-eps-converted-to.pdf used on inp
+ut line 1427.
+(pdftex.def)             Requested size: 192.0548pt x 143.94954pt.
+Package epstopdf Info: Source file: <Images/iga0_eigK2max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 40127 bytes
+(epstopdf)             Output file: <Images/iga0_eigK2max-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:00:58
+(epstopdf)                    size: 23033 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigK2max-eps-c
+onverted-to.pdf Images/iga0_eigK2max.eps>
+(epstopdf)             \includegraphics on input line 1439.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigK2max-eps-converted-to.pdf, id=312, 530.98375pt x 400.49625pt>
+File: Images/iga0_eigK2max-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigK2max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigK2max-eps-converted-to.pdf used on inpu
+t line 1439.
+(pdftex.def)             Requested size: 192.0548pt x 144.85686pt.
+Package epstopdf Info: Source file: <Images/iga0_eigK2smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 39062 bytes
+(epstopdf)             Output file: <Images/iga0_eigK2smax-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:00:59
+(epstopdf)                    size: 22675 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigK2smax-eps-
+converted-to.pdf Images/iga0_eigK2smax.eps>
+(epstopdf)             \includegraphics on input line 1440.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigK2smax-eps-converted-to.pdf, id=313, 530.98375pt x 400.49625pt>
+File: Images/iga0_eigK2smax-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/iga0_eigK2smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigK2smax-eps-converted-to.pdf used on inp
+ut line 1440.
+(pdftex.def)             Requested size: 192.0548pt x 144.85686pt.
+Package epstopdf Info: Source file: <Images/iga0_eigK3min.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 19553 bytes
+(epstopdf)             Output file: <Images/iga0_eigK3min-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:01:00
+(epstopdf)                    size: 11455 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigK3min-eps-c
+onverted-to.pdf Images/iga0_eigK3min.eps>
+(epstopdf)             \includegraphics on input line 1451.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigK3min-eps-converted-to.pdf, id=314, 547.04375pt x 405.515pt>
+File: Images/iga0_eigK3min-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigK3min-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigK3min-eps-converted-to.pdf used on inpu
+t line 1451.
+(pdftex.def)             Requested size: 192.0548pt x 142.3655pt.
+Package epstopdf Info: Source file: <Images/iga0_eigK3smin.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 19436 bytes
+(epstopdf)             Output file: <Images/iga0_eigK3smin-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:01:00
+(epstopdf)                    size: 11332 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigK3smin-eps-
+converted-to.pdf Images/iga0_eigK3smin.eps>
+(epstopdf)             \includegraphics on input line 1452.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigK3smin-eps-converted-to.pdf, id=315, 547.04375pt x 405.515pt>
+File: Images/iga0_eigK3smin-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigK3smin-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigK3smin-eps-converted-to.pdf used on inp
+ut line 1452.
+(pdftex.def)             Requested size: 192.0548pt x 142.3655pt.
+Package epstopdf Info: Source file: <Images/iga0_eigK3max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 19336 bytes
+(epstopdf)             Output file: <Images/iga0_eigK3max-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:01:01
+(epstopdf)                    size: 11595 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigK3max-eps-c
+onverted-to.pdf Images/iga0_eigK3max.eps>
+(epstopdf)             \includegraphics on input line 1464.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigK3max-eps-converted-to.pdf, id=316, 547.04375pt x 400.49625pt>
+File: Images/iga0_eigK3max-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eigK3max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigK3max-eps-converted-to.pdf used on inpu
+t line 1464.
+(pdftex.def)             Requested size: 192.0548pt x 140.60356pt.
+Package epstopdf Info: Source file: <Images/iga0_eigK3smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 18875 bytes
+(epstopdf)             Output file: <Images/iga0_eigK3smax-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:01:02
+(epstopdf)                    size: 11293 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eigK3smax-eps-
+converted-to.pdf Images/iga0_eigK3smax.eps>
+(epstopdf)             \includegraphics on input line 1465.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eigK3smax-eps-converted-to.pdf, id=317, 547.04375pt x 400.49625pt>
+File: Images/iga0_eigK3smax-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/iga0_eigK3smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eigK3smax-eps-converted-to.pdf used on inp
+ut line 1465.
+(pdftex.def)             Requested size: 192.0548pt x 140.60356pt.
+ [23
+
+ <./stiff_min_iga0.pdf> <./stiff_max_iga0.pdf>] [24 <./Images/iga0_eigK1min-eps
+-converted-to.pdf> <./Images/iga0_eigK1smin-eps-converted-to.pdf>] [25 <./Image
+s/iga0_eigK1max-eps-converted-to.pdf> <./Images/iga0_eigK1smax-eps-converted-to
+.pdf> <./Images/iga0_eigK2min-eps-converted-to.pdf> <./Images/iga0_eigK2smin-ep
+s-converted-to.pdf>]
+[26 <./Images/iga0_eigK2max-eps-converted-to.pdf> <./Images/iga0_eigK2smax-eps-
+converted-to.pdf> <./Images/iga0_eigK3min-eps-converted-to.pdf> <./Images/iga0_
+eigK3smin-eps-converted-to.pdf>] [27 <./Images/iga0_eigK3max-eps-converted-to.p
+df> <./Images/iga0_eigK3smax-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Images/iga0_eiggen1max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 132186 bytes
+(epstopdf)             Output file: <Images/iga0_eiggen1max-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-06-23 16:01:03
+(epstopdf)                    size: 68200 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eiggen1max-eps
+-converted-to.pdf Images/iga0_eiggen1max.eps>
+(epstopdf)             \includegraphics on input line 1498.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eiggen1max-eps-converted-to.pdf, id=411, 505.89pt x 391.4625pt>
+File: Images/iga0_eiggen1max-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eiggen1max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eiggen1max-eps-converted-to.pdf used on in
+put line 1498.
+(pdftex.def)             Requested size: 192.0548pt x 148.61392pt.
+Package epstopdf Info: Source file: <Images/iga0_eiggen1smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 131934 bytes
+(epstopdf)             Output file: <Images/iga0_eiggen1smax-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-06-23 16:01:04
+(epstopdf)                    size: 68375 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eiggen1smax-ep
+s-converted-to.pdf Images/iga0_eiggen1smax.eps>
+(epstopdf)             \includegraphics on input line 1499.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eiggen1smax-eps-converted-to.pdf, id=412, 505.89pt x 391.4625pt>
+File: Images/iga0_eiggen1smax-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/iga0_eiggen1smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eiggen1smax-eps-converted-to.pdf used on i
+nput line 1499.
+(pdftex.def)             Requested size: 192.0548pt x 148.61392pt.
+Package epstopdf Info: Source file: <Images/iga0_eiggen2max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 40225 bytes
+(epstopdf)             Output file: <Images/iga0_eiggen2max-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-06-23 16:01:05
+(epstopdf)                    size: 21926 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eiggen2max-eps
+-converted-to.pdf Images/iga0_eiggen2max.eps>
+(epstopdf)             \includegraphics on input line 1510.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eiggen2max-eps-converted-to.pdf, id=413, 508.90125pt x 391.4625pt>
+File: Images/iga0_eiggen2max-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/iga0_eiggen2max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eiggen2max-eps-converted-to.pdf used on in
+put line 1510.
+(pdftex.def)             Requested size: 192.0548pt x 147.73587pt.
+Package epstopdf Info: Source file: <Images/iga0_eiggen2smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 40143 bytes
+(epstopdf)             Output file: <Images/iga0_eiggen2smax-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-06-23 16:01:06
+(epstopdf)                    size: 21715 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eiggen2smax-ep
+s-converted-to.pdf Images/iga0_eiggen2smax.eps>
+(epstopdf)             \includegraphics on input line 1511.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eiggen2smax-eps-converted-to.pdf, id=414, 508.90125pt x 391.4625pt
+>
+File: Images/iga0_eiggen2smax-eps-converted-to.pdf Graphic file (type pdf)
+ <use Images/iga0_eiggen2smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eiggen2smax-eps-converted-to.pdf used on i
+nput line 1511.
+(pdftex.def)             Requested size: 192.0548pt x 147.73587pt.
+Package epstopdf Info: Source file: <Images/iga0_eiggen3max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 16733 bytes
+(epstopdf)             Output file: <Images/iga0_eiggen3max-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-06-23 16:01:07
+(epstopdf)                    size: 10330 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eiggen3max-eps
+-converted-to.pdf Images/iga0_eiggen3max.eps>
+(epstopdf)             \includegraphics on input line 1522.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eiggen3max-eps-converted-to.pdf, id=415, 522.95375pt x 391.4625pt>
+File: Images/iga0_eiggen3max-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/iga0_eiggen3max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eiggen3max-eps-converted-to.pdf used on in
+put line 1522.
+(pdftex.def)             Requested size: 192.0548pt x 143.76367pt.
+Package epstopdf Info: Source file: <Images/iga0_eiggen3smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 16988 bytes
+(epstopdf)             Output file: <Images/iga0_eiggen3smax-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-06-23 16:01:08
+(epstopdf)                    size: 10168 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/iga0_eiggen3smax-ep
+s-converted-to.pdf Images/iga0_eiggen3smax.eps>
+(epstopdf)             \includegraphics on input line 1523.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/iga0_eiggen3smax-eps-converted-to.pdf, id=416, 522.95375pt x 391.4625pt
+>
+File: Images/iga0_eiggen3smax-eps-converted-to.pdf Graphic file (type pdf)
+ <use Images/iga0_eiggen3smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/iga0_eiggen3smax-eps-converted-to.pdf used on i
+nput line 1523.
+(pdftex.def)             Requested size: 192.0548pt x 143.76367pt.
+ [28
+
+ <./Images/iga0_eiggen1max-eps-converted-to.pdf> <./Images/iga0_eiggen1smax-eps
+-converted-to.pdf>]
+[29 <./Images/iga0_eiggen2max-eps-converted-to.pdf> <./Images/iga0_eiggen2smax-
+eps-converted-to.pdf> <./Images/iga0_eiggen3max-eps-converted-to.pdf> <./Images
+/iga0_eiggen3smax-eps-converted-to.pdf>] (./massa_igap.pdf_t
+<massa_igap.pdf, id=460, 372.39125pt x 323.2075pt>
+File: massa_igap.pdf Graphic file (type pdf)
+ <use massa_igap.pdf>
+Package pdftex.def Info: massa_igap.pdf used on input line 2.
+(pdftex.def)             Requested size: 372.39034pt x 323.20671pt.
+)
+Package epstopdf Info: Source file: <Images/igap_eigM1min.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 130614 bytes
+(epstopdf)             Output file: <Images/igap_eigM1min-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:01:09
+(epstopdf)                    size: 66611 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigM1min-eps-c
+onverted-to.pdf Images/igap_eigM1min.eps>
+(epstopdf)             \includegraphics on input line 1587.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigM1min-eps-converted-to.pdf, id=461, 527.9725pt x 408.52625pt>
+File: Images/igap_eigM1min-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigM1min-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigM1min-eps-converted-to.pdf used on inpu
+t line 1587.
+(pdftex.def)             Requested size: 192.0548pt x 148.6028pt.
+Package epstopdf Info: Source file: <Images/igap_eigM1smin.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 133443 bytes
+(epstopdf)             Output file: <Images/igap_eigM1smin-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:01:10
+(epstopdf)                    size: 67356 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigM1smin-eps-
+converted-to.pdf Images/igap_eigM1smin.eps>
+(epstopdf)             \includegraphics on input line 1588.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigM1smin-eps-converted-to.pdf, id=462, 527.9725pt x 408.52625pt>
+File: Images/igap_eigM1smin-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigM1smin-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigM1smin-eps-converted-to.pdf used on inp
+ut line 1588.
+(pdftex.def)             Requested size: 192.0548pt x 148.6028pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <Images/igap_eigM1max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 127081 bytes
+(epstopdf)             Output file: <Images/igap_eigM1max-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:01:11
+(epstopdf)                    size: 64592 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigM1max-eps-c
+onverted-to.pdf Images/igap_eigM1max.eps>
+(epstopdf)             \includegraphics on input line 1600.
+Package epstopdf Info: Output file is already uptodate.
+<Images/igap_eigM1max-eps-converted-to.pdf, id=463, 529.98pt x 408.52625pt>
+File: Images/igap_eigM1max-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigM1max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigM1max-eps-converted-to.pdf used on inpu
+t line 1600.
+(pdftex.def)             Requested size: 192.0548pt x 148.04178pt.
+Package epstopdf Info: Source file: <Images/igap_eigM1smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 128956 bytes
+(epstopdf)             Output file: <Images/igap_eigM1smax-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:01:12
+(epstopdf)                    size: 65688 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigM1smax-eps-
+converted-to.pdf Images/igap_eigM1smax.eps>
+(epstopdf)             \includegraphics on input line 1601.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigM1smax-eps-converted-to.pdf, id=464, 529.98pt x 408.52625pt>
+File: Images/igap_eigM1smax-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigM1smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigM1smax-eps-converted-to.pdf used on inp
+ut line 1601.
+(pdftex.def)             Requested size: 192.0548pt x 148.04178pt.
+Package epstopdf Info: Source file: <Images/igap_eigM2min.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 56111 bytes
+(epstopdf)             Output file: <Images/igap_eigM2min-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:01:13
+(epstopdf)                    size: 29790 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigM2min-eps-c
+onverted-to.pdf Images/igap_eigM2min.eps>
+(epstopdf)             \includegraphics on input line 1612.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigM2min-eps-converted-to.pdf, id=465, 527.9725pt x 405.515pt>
+File: Images/igap_eigM2min-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigM2min-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigM2min-eps-converted-to.pdf used on inpu
+t line 1612.
+(pdftex.def)             Requested size: 192.0548pt x 147.50745pt.
+Package epstopdf Info: Source file: <Images/igap_eigM2smin.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 57294 bytes
+(epstopdf)             Output file: <Images/igap_eigM2smin-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:01:14
+(epstopdf)                    size: 30199 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigM2smin-eps-
+converted-to.pdf Images/igap_eigM2smin.eps>
+(epstopdf)             \includegraphics on input line 1613.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigM2smin-eps-converted-to.pdf, id=466, 527.9725pt x 408.52625pt>
+File: Images/igap_eigM2smin-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigM2smin-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigM2smin-eps-converted-to.pdf used on inp
+ut line 1613.
+(pdftex.def)             Requested size: 192.0548pt x 148.6028pt.
+Package epstopdf Info: Source file: <Images/igap_eigM2max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 54092 bytes
+(epstopdf)             Output file: <Images/igap_eigM2max-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:01:14
+(epstopdf)                    size: 29410 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigM2max-eps-c
+onverted-to.pdf Images/igap_eigM2max.eps>
+(epstopdf)             \includegraphics on input line 1625.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigM2max-eps-converted-to.pdf, id=467, 516.93124pt x 405.515pt>
+File: Images/igap_eigM2max-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigM2max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigM2max-eps-converted-to.pdf used on inpu
+t line 1625.
+(pdftex.def)             Requested size: 192.0548pt x 150.65695pt.
+Package epstopdf Info: Source file: <Images/igap_eigM2smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 54431 bytes
+(epstopdf)             Output file: <Images/igap_eigM2smax-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:01:15
+(epstopdf)                    size: 30203 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigM2smax-eps-
+converted-to.pdf Images/igap_eigM2smax.eps>
+(epstopdf)             \includegraphics on input line 1626.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigM2smax-eps-converted-to.pdf, id=468, 516.93124pt x 408.52625pt>
+File: Images/igap_eigM2smax-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/igap_eigM2smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigM2smax-eps-converted-to.pdf used on inp
+ut line 1626.
+(pdftex.def)             Requested size: 192.0548pt x 151.7757pt.
+Package epstopdf Info: Source file: <Images/igap_eigM3min.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 24950 bytes
+(epstopdf)             Output file: <Images/igap_eigM3min-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:01:16
+(epstopdf)                    size: 14095 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigM3min-eps-c
+onverted-to.pdf Images/igap_eigM3min.eps>
+(epstopdf)             \includegraphics on input line 1637.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigM3min-eps-converted-to.pdf, id=469, 551.05875pt x 405.515pt>
+File: Images/igap_eigM3min-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigM3min-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigM3min-eps-converted-to.pdf used on inpu
+t line 1637.
+(pdftex.def)             Requested size: 192.0548pt x 141.33217pt.
+Package epstopdf Info: Source file: <Images/igap_eigM3smin.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 25409 bytes
+(epstopdf)             Output file: <Images/igap_eigM3smin-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:01:17
+(epstopdf)                    size: 14079 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigM3smin-eps-
+converted-to.pdf Images/igap_eigM3smin.eps>
+(epstopdf)             \includegraphics on input line 1638.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigM3smin-eps-converted-to.pdf, id=470, 551.05875pt x 408.52625pt>
+File: Images/igap_eigM3smin-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/igap_eigM3smin-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigM3smin-eps-converted-to.pdf used on inp
+ut line 1638.
+(pdftex.def)             Requested size: 192.0548pt x 142.38167pt.
+Package epstopdf Info: Source file: <Images/igap_eigM3max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 24742 bytes
+(epstopdf)             Output file: <Images/igap_eigM3max-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:01:18
+(epstopdf)                    size: 14566 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigM3max-eps-c
+onverted-to.pdf Images/igap_eigM3max.eps>
+(epstopdf)             \includegraphics on input line 1650.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigM3max-eps-converted-to.pdf, id=471, 553.06625pt x 405.515pt>
+File: Images/igap_eigM3max-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigM3max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigM3max-eps-converted-to.pdf used on inpu
+t line 1650.
+(pdftex.def)             Requested size: 192.0548pt x 140.8124pt.
+Package epstopdf Info: Source file: <Images/igap_eigM3smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 23315 bytes
+(epstopdf)             Output file: <Images/igap_eigM3smax-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:01:19
+(epstopdf)                    size: 14035 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigM3smax-eps-
+converted-to.pdf Images/igap_eigM3smax.eps>
+(epstopdf)             \includegraphics on input line 1651.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigM3smax-eps-converted-to.pdf, id=472, 553.06625pt x 408.52625pt>
+File: Images/igap_eigM3smax-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/igap_eigM3smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigM3smax-eps-converted-to.pdf used on inp
+ut line 1651.
+(pdftex.def)             Requested size: 192.0548pt x 141.85805pt.
+ [30
+
+ <./massa_igap.pdf>]
+[31 <./Images/igap_eigM1min-eps-converted-to.pdf> <./Images/igap_eigM1smin-eps-
+converted-to.pdf> <./Images/igap_eigM1max-eps-converted-to.pdf> <./Images/igap_
+eigM1smax-eps-converted-to.pdf>] [32 <./Images/igap_eigM2min-eps-converted-to.p
+df> <./Images/igap_eigM2smin-eps-converted-to.pdf> <./Images/igap_eigM2max-eps-
+converted-to.pdf> <./Images/igap_eigM2smax-eps-converted-to.pdf>] [33 <./Images
+/igap_eigM3min-eps-converted-to.pdf> <./Images/igap_eigM3smin-eps-converted-to.
+pdf> <./Images/igap_eigM3max-eps-converted-to.pdf> <./Images/igap_eigM3smax-eps
+-converted-to.pdf>] (./stiff_min_igap.pdf_t
+<stiff_min_igap.pdf, id=560, 384.43625pt x 320.19624pt>
+File: stiff_min_igap.pdf Graphic file (type pdf)
+
+<use stiff_min_igap.pdf>
+Package pdftex.def Info: stiff_min_igap.pdf used on input line 2.
+(pdftex.def)             Requested size: 384.4353pt x 320.19545pt.
+) (./stiff_max_igap.pdf_t
+<stiff_max_igap.pdf, id=561, 381.425pt x 326.21875pt>
+File: stiff_max_igap.pdf Graphic file (type pdf)
+ <use stiff_max_igap.pdf>
+Package pdftex.def Info: stiff_max_igap.pdf used on input line 2.
+(pdftex.def)             Requested size: 381.42406pt x 326.21794pt.
+) (./stiff_cond_igap.pdf_t
+File: stiff_cond_igap.pdf Graphic file (type pdf)
+ <use stiff_cond_igap.pdf>
+Package pdftex.def Info: stiff_cond_igap.pdf used on input line 2.
+(pdftex.def)             Requested size: 410.53275pt x 310.15799pt.
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <Images/igap_eigK1min.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 128921 bytes
+(epstopdf)             Output file: <Images/igap_eigK1min-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:01:20
+(epstopdf)                    size: 66519 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigK1min-eps-c
+onverted-to.pdf Images/igap_eigK1min.eps>
+(epstopdf)             \includegraphics on input line 1712.
+Package epstopdf Info: Output file is already uptodate.
+<Images/igap_eigK1min-eps-converted-to.pdf, id=562, 527.9725pt x 408.52625pt>
+File: Images/igap_eigK1min-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigK1min-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigK1min-eps-converted-to.pdf used on inpu
+t line 1712.
+(pdftex.def)             Requested size: 192.0548pt x 148.6028pt.
+Package epstopdf Info: Source file: <Images/igap_eigK1smin.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 129831 bytes
+(epstopdf)             Output file: <Images/igap_eigK1smin-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:01:21
+(epstopdf)                    size: 65773 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigK1smin-eps-
+converted-to.pdf Images/igap_eigK1smin.eps>
+(epstopdf)             \includegraphics on input line 1713.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigK1smin-eps-converted-to.pdf, id=563, 527.9725pt x 408.52625pt>
+File: Images/igap_eigK1smin-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigK1smin-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigK1smin-eps-converted-to.pdf used on inp
+ut line 1713.
+(pdftex.def)             Requested size: 192.0548pt x 148.6028pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <Images/igap_eigK1max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 133304 bytes
+(epstopdf)             Output file: <Images/igap_eigK1max-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:01:22
+(epstopdf)                    size: 66794 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigK1max-eps-c
+onverted-to.pdf Images/igap_eigK1max.eps>
+(epstopdf)             \includegraphics on input line 1725.
+Package epstopdf Info: Output file is already uptodate.
+<Images/igap_eigK1max-eps-converted-to.pdf, id=564, 503.8825pt x 390.45876pt>
+File: Images/igap_eigK1max-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigK1max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigK1max-eps-converted-to.pdf used on inpu
+t line 1725.
+(pdftex.def)             Requested size: 192.0548pt x 148.82271pt.
+Package epstopdf Info: Source file: <Images/igap_eigK1smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 132796 bytes
+(epstopdf)             Output file: <Images/igap_eigK1smax-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:01:23
+(epstopdf)                    size: 67254 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigK1smax-eps-
+converted-to.pdf Images/igap_eigK1smax.eps>
+(epstopdf)             \includegraphics on input line 1726.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigK1smax-eps-converted-to.pdf, id=565, 503.8825pt x 390.45876pt>
+File: Images/igap_eigK1smax-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigK1smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigK1smax-eps-converted-to.pdf used on inp
+ut line 1726.
+(pdftex.def)             Requested size: 192.0548pt x 148.82271pt.
+Package epstopdf Info: Source file: <Images/igap_eigK2min.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 54804 bytes
+(epstopdf)             Output file: <Images/igap_eigK2min-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:01:24
+(epstopdf)                    size: 29620 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigK2min-eps-c
+onverted-to.pdf Images/igap_eigK2min.eps>
+(epstopdf)             \includegraphics on input line 1736.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigK2min-eps-converted-to.pdf, id=566, 527.9725pt x 405.515pt>
+File: Images/igap_eigK2min-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigK2min-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigK2min-eps-converted-to.pdf used on inpu
+t line 1736.
+(pdftex.def)             Requested size: 192.0548pt x 147.50745pt.
+Package epstopdf Info: Source file: <Images/igap_eigK2smin.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 54692 bytes
+(epstopdf)             Output file: <Images/igap_eigK2smin-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:01:25
+(epstopdf)                    size: 29916 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigK2smin-eps-
+converted-to.pdf Images/igap_eigK2smin.eps>
+(epstopdf)             \includegraphics on input line 1737.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigK2smin-eps-converted-to.pdf, id=567, 527.9725pt x 405.515pt>
+File: Images/igap_eigK2smin-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigK2smin-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigK2smin-eps-converted-to.pdf used on inp
+ut line 1737.
+(pdftex.def)             Requested size: 192.0548pt x 147.50745pt.
+Package epstopdf Info: Source file: <Images/igap_eigK2max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 55928 bytes
+(epstopdf)             Output file: <Images/igap_eigK2max-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:01:26
+(epstopdf)                    size: 29520 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigK2max-eps-c
+onverted-to.pdf Images/igap_eigK2max.eps>
+(epstopdf)             \includegraphics on input line 1749.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigK2max-eps-converted-to.pdf, id=568, 533.995pt x 405.515pt>
+File: Images/igap_eigK2max-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigK2max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigK2max-eps-converted-to.pdf used on inpu
+t line 1749.
+(pdftex.def)             Requested size: 192.0548pt x 145.84296pt.
+Package epstopdf Info: Source file: <Images/igap_eigK2smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 53647 bytes
+(epstopdf)             Output file: <Images/igap_eigK2smax-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:01:26
+(epstopdf)                    size: 29136 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigK2smax-eps-
+converted-to.pdf Images/igap_eigK2smax.eps>
+(epstopdf)             \includegraphics on input line 1750.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigK2smax-eps-converted-to.pdf, id=569, 533.995pt x 405.515pt>
+File: Images/igap_eigK2smax-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigK2smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigK2smax-eps-converted-to.pdf used on inp
+ut line 1750.
+(pdftex.def)             Requested size: 192.0548pt x 145.84296pt.
+Package epstopdf Info: Source file: <Images/igap_eigK3min.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 24428 bytes
+(epstopdf)             Output file: <Images/igap_eigK3min-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:01:27
+(epstopdf)                    size: 13938 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigK3min-eps-c
+onverted-to.pdf Images/igap_eigK3min.eps>
+(epstopdf)             \includegraphics on input line 1762.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigK3min-eps-converted-to.pdf, id=570, 551.05875pt x 405.515pt>
+File: Images/igap_eigK3min-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigK3min-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigK3min-eps-converted-to.pdf used on inpu
+t line 1762.
+(pdftex.def)             Requested size: 192.0548pt x 141.33217pt.
+Package epstopdf Info: Source file: <Images/igap_eigK3smin.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 25084 bytes
+(epstopdf)             Output file: <Images/igap_eigK3smin-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:01:28
+(epstopdf)                    size: 13969 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigK3smin-eps-
+converted-to.pdf Images/igap_eigK3smin.eps>
+(epstopdf)             \includegraphics on input line 1763.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigK3smin-eps-converted-to.pdf, id=571, 551.05875pt x 405.515pt>
+File: Images/igap_eigK3smin-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigK3smin-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigK3smin-eps-converted-to.pdf used on inp
+ut line 1763.
+(pdftex.def)             Requested size: 192.0548pt x 141.33217pt.
+Package epstopdf Info: Source file: <Images/igap_eigK3max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 24460 bytes
+(epstopdf)             Output file: <Images/igap_eigK3max-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-06-23 16:01:29
+(epstopdf)                    size: 14166 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigK3max-eps-c
+onverted-to.pdf Images/igap_eigK3max.eps>
+(epstopdf)             \includegraphics on input line 1775.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigK3max-eps-converted-to.pdf, id=572, 547.04375pt x 400.49625pt>
+File: Images/igap_eigK3max-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eigK3max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigK3max-eps-converted-to.pdf used on inpu
+t line 1775.
+(pdftex.def)             Requested size: 192.0548pt x 140.60356pt.
+Package epstopdf Info: Source file: <Images/igap_eigK3smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 24371 bytes
+(epstopdf)             Output file: <Images/igap_eigK3smax-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-06-23 16:01:30
+(epstopdf)                    size: 14120 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eigK3smax-eps-
+converted-to.pdf Images/igap_eigK3smax.eps>
+(epstopdf)             \includegraphics on input line 1776.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eigK3smax-eps-converted-to.pdf, id=573, 547.04375pt x 400.49625pt>
+File: Images/igap_eigK3smax-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/igap_eigK3smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eigK3smax-eps-converted-to.pdf used on inp
+ut line 1776.
+(pdftex.def)             Requested size: 192.0548pt x 140.60356pt.
+ [34
+
+ <./stiff_min_igap.pdf> <./stiff_max_igap.pdf>] [35 <./Images/igap_eigK1min-eps
+-converted-to.pdf> <./Images/igap_eigK1smin-eps-converted-to.pdf>] [36 <./Image
+s/igap_eigK1max-eps-converted-to.pdf> <./Images/igap_eigK1smax-eps-converted-to
+.pdf> <./Images/igap_eigK2min-eps-converted-to.pdf> <./Images/igap_eigK2smin-ep
+s-converted-to.pdf>]
+[37 <./Images/igap_eigK2max-eps-converted-to.pdf> <./Images/igap_eigK2smax-eps-
+converted-to.pdf> <./Images/igap_eigK3min-eps-converted-to.pdf> <./Images/igap_
+eigK3smin-eps-converted-to.pdf>] [38 <./Images/igap_eigK3max-eps-converted-to.p
+df> <./Images/igap_eigK3smax-eps-converted-to.pdf>]
+Overfull \hbox (7.40343pt too wide) in paragraph at lines 1792--1796
+\OT1/cmr/m/n/10.95 The min-i-mum eigen-value of the ma-trix $(\OML/cmm/m/it/10.
+95 M[]\OT1/cmr/m/n/10.95 )[]\OML/cmm/m/it/10.95 K[]$ \OT1/cmr/m/n/10.95 of IGA-
+$\OML/cmm/m/it/10.95 C[]$ \OT1/cmr/m/n/10.95 is $\OML/cmm/m/it/10.95 ^^U[]\OT1/
+cmr/m/n/10.95 (\OML/cmm/m/it/10.95 M[]\OT1/cmr/m/n/10.95 )[]\OML/cmm/m/it/10.95
+ K[] \OMS/cmsy/m/n/10.95 ^^X
+ []
+
+Package epstopdf Info: Source file: <Images/igap_eiggen1max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 133180 bytes
+(epstopdf)             Output file: <Images/igap_eiggen1max-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-06-23 16:01:31
+(epstopdf)                    size: 67199 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eiggen1max-eps
+-converted-to.pdf Images/igap_eiggen1max.eps>
+(epstopdf)             \includegraphics on input line 1808.
+Package epstopdf Info: Output file is already uptodate.
+<Images/igap_eiggen1max-eps-converted-to.pdf, id=667, 505.89pt x 391.4625pt>
+File: Images/igap_eiggen1max-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eiggen1max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eiggen1max-eps-converted-to.pdf used on in
+put line 1808.
+(pdftex.def)             Requested size: 192.0548pt x 148.61392pt.
+Package epstopdf Info: Source file: <Images/igap_eiggen1smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 132194 bytes
+(epstopdf)             Output file: <Images/igap_eiggen1smax-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-06-23 16:01:32
+(epstopdf)                    size: 67790 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eiggen1smax-ep
+s-converted-to.pdf Images/igap_eiggen1smax.eps>
+(epstopdf)             \includegraphics on input line 1809.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eiggen1smax-eps-converted-to.pdf, id=668, 505.89pt x 391.4625pt>
+File: Images/igap_eiggen1smax-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Images/igap_eiggen1smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eiggen1smax-eps-converted-to.pdf used on i
+nput line 1809.
+(pdftex.def)             Requested size: 192.0548pt x 148.61392pt.
+Package epstopdf Info: Source file: <Images/igap_eiggen2max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 57271 bytes
+(epstopdf)             Output file: <Images/igap_eiggen2max-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-06-23 16:01:33
+(epstopdf)                    size: 30283 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eiggen2max-eps
+-converted-to.pdf Images/igap_eiggen2max.eps>
+(epstopdf)             \includegraphics on input line 1820.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eiggen2max-eps-converted-to.pdf, id=669, 508.90125pt x 391.4625pt>
+File: Images/igap_eiggen2max-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/igap_eiggen2max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eiggen2max-eps-converted-to.pdf used on in
+put line 1820.
+(pdftex.def)             Requested size: 192.0548pt x 147.73587pt.
+Package epstopdf Info: Source file: <Images/igap_eiggen2smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 57037 bytes
+(epstopdf)             Output file: <Images/igap_eiggen2smax-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-06-23 16:01:34
+(epstopdf)                    size: 30597 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eiggen2smax-ep
+s-converted-to.pdf Images/igap_eiggen2smax.eps>
+(epstopdf)             \includegraphics on input line 1821.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eiggen2smax-eps-converted-to.pdf, id=670, 508.90125pt x 391.4625pt
+>
+File: Images/igap_eiggen2smax-eps-converted-to.pdf Graphic file (type pdf)
+ <use Images/igap_eiggen2smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eiggen2smax-eps-converted-to.pdf used on i
+nput line 1821.
+(pdftex.def)             Requested size: 192.0548pt x 147.73587pt.
+Package epstopdf Info: Source file: <Images/igap_eiggen3max.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 25667 bytes
+(epstopdf)             Output file: <Images/igap_eiggen3max-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-06-23 16:01:35
+(epstopdf)                    size: 14370 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eiggen3max-eps
+-converted-to.pdf Images/igap_eiggen3max.eps>
+(epstopdf)             \includegraphics on input line 1832.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eiggen3max-eps-converted-to.pdf, id=671, 539.01375pt x 391.4625pt>
+File: Images/igap_eiggen3max-eps-converted-to.pdf Graphic file (type pdf)
+<use Images/igap_eiggen3max-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eiggen3max-eps-converted-to.pdf used on in
+put line 1832.
+(pdftex.def)             Requested size: 192.0548pt x 139.48087pt.
+Package epstopdf Info: Source file: <Images/igap_eiggen3smax.eps>
+(epstopdf)                    date: 2017-06-23 16:00:35
+(epstopdf)                    size: 25631 bytes
+(epstopdf)             Output file: <Images/igap_eiggen3smax-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-06-23 16:01:35
+(epstopdf)                    size: 14205 bytes
+(epstopdf)             Command: <repstopdf --outfile=Images/igap_eiggen3smax-ep
+s-converted-to.pdf Images/igap_eiggen3smax.eps>
+(epstopdf)             \includegraphics on input line 1833.
+Package epstopdf Info: Output file is already uptodate.
+
+<Images/igap_eiggen3smax-eps-converted-to.pdf, id=672, 539.01375pt x 391.4625pt
+>
+File: Images/igap_eiggen3smax-eps-converted-to.pdf Graphic file (type pdf)
+ <use Images/igap_eiggen3smax-eps-converted-to.pdf>
+Package pdftex.def Info: Images/igap_eiggen3smax-eps-converted-to.pdf used on i
+nput line 1833.
+(pdftex.def)             Requested size: 192.0548pt x 139.48087pt.
+ (./igasem.bbl [39
+
+ <./Images/igap_eiggen1max-eps-converted-to.pdf> <./Images/igap_eiggen1smax-eps
+-converted-to.pdf>] [40 <./Images/igap_eiggen2max-eps-converted-to.pdf> <./Imag
+es/igap_eiggen2smax-eps-converted-to.pdf> <./Images/igap_eiggen3max-eps-convert
+ed-to.pdf> <./Images/igap_eiggen3smax-eps-converted-to.pdf>]) [41]
+\Changes@OutFile=\write6
+\openout6 = `igasem.loc'.
+
+ (./igasem.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.74pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5892 strings out of 493315
+ 93865 string characters out of 6137910
+ 163503 words of memory out of 5000000
+ 9078 multiletter control sequences out of 15000+600000
+ 16409 words of font info for 63 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 38i,21n,39p,372b,445s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
+sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
+ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
+al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local
+/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/t
+exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
+ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
+/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
+2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
+13/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/201
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2013
+/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/
+2013/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on igasem.pdf (41 pages, 2869236 bytes).
+PDF statistics:
+ 778 PDF objects out of 1000 (max. 8388607)
+ 547 compressed objects within 6 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 431 words of extra memory for PDF output out of 10000 (max. 10000000)
+

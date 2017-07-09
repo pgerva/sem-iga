@@ -1,0 +1,113 @@
+\def\cprime{$'$} \def\cprime{$'$}
+\begin{thebibliography}{10}
+
+\bibitem{bcps13a}
+L.~Beir\~ao~da Veiga, D.~Cho, L.~F. Pavarino, and S.~Scacchi.
+\newblock B{DDC} preconditioners for isogeometric analysis.
+\newblock {\em Math. Models Methods Appl. Sci.}, 23(6):1099--1142, 2013.
+
+\bibitem{bpcs13b}
+L.~Beir\~ao~da Veiga, D.~Cho, L.~F. Pavarino, and S.~Scacchi.
+\newblock Isogeometric {S}chwarz preconditioners for linear elasticity systems.
+\newblock {\em Comput. Methods Appl. Mech. Engrg.}, 253:439--454, 2013.
+
+\bibitem{bcps}
+L.~Beir\~ao~da Veiga, D.~Cho, L.~F. Pavarino, and S.~Scacchi.
+\newblock Overlapping {S}chwarz preconditioners for isogeometric collocation
+  methods.
+\newblock {\em Comput. Methods Appl. Mech. Engrg.}, 278:239--253, 2014.
+
+\bibitem{bpswz_2014}
+L.~Beir\~ao~da Veiga, L.~F. Pavarino, S.~Scacchi, O.~B. Widlund, and
+  S.~Zampini.
+\newblock Isogeometric {BDDC} preconditioners with deluxe scaling.
+\newblock {\em SIAM J. Sci. Comput.}, 36(3):A1118--A1139, 2014.
+
+\bibitem{bm}
+C.~Bernardi and Y.~Maday.
+\newblock {\em {Approximations Spectrales de Probl\`emes aux Limites
+  Elliptiques}}.
+\newblock Springer Verlag, Paris, 1992.
+
+\bibitem{bm-handbook}
+C.~Bernardi and Y.~Maday.
+\newblock Spectral methods.
+\newblock In {\em Handbook of numerical analysis, Vol. V}, Handb. Numer. Anal.,
+  V, pages 209--485. North-Holland, Amsterdam, 1997.
+
+\bibitem{chqz06}
+C.~Canuto, M.~Y. Hussaini, A.~Quarteroni, and T.~A. Zang.
+\newblock {\em {Spectral Methods. Fundamentals in Single Domains}}.
+\newblock Springer, Heidelberg, 2006.
+
+\bibitem{chqz07}
+C.~Canuto, M.~Y. Hussaini, A.~Quarteroni, and T.~A. Zang.
+\newblock {\em {Spectral Methods. Evolution to Complex Geometries and
+  Applications to Fluid Dynamics}}.
+\newblock Springer, Heidelberg, 2007.
+
+\bibitem{bbrs}
+L.~Beir{\~a}o da~Veiga, A.~Buffa, J.~Rivas, and G.~Sangalli.
+\newblock Some estimates for {$h$}-{$p$}-{$k$}-refinement in isogeometric
+  analysis.
+\newblock {\em Numer. Math.}, 118(2):271--305, 2011.
+
+\bibitem{bbsv}
+L.~Beir{\~a}o da~Veiga, A.~Buffa, G.~Sangalli, and R.~V\`azquez.
+\newblock An introduction to the numerical analysis of isogeometric methods.
+\newblock In {\em Numerical simulation in physics and engineering}, volume~9 of
+  {\em SEMA SIMAI Springer Ser.}, pages 3--69. Springer, [Cham], 2016.
+
+\bibitem{bpswz_2017}
+L.~Beir{\~a}o da~Veiga, L.F. Pavarino, S.~Scacchi, O.B. Widlund, and
+  S.~Zampini.
+\newblock Adaptive selection of primal constraints for isogeometric {BDDC}
+  deluxe preconditioners.
+\newblock {\em SIAM J. Sci. Comput.}, 39(1):A281--A302, 2017.
+
+\bibitem{Gahalaut_Tomar}
+K.~Gahalaut and S.~Tomar.
+\newblock Condition number estimates for matrices arising in the isogeometric
+  discretizations.
+\newblock Technical Report 2012-23, RICAM, 2012.
+
+\bibitem{gmpscs}
+C.~Garoni, C.~Manni, F.~Pelosi, S.~Serra-Capizzano, and H.~Speleers.
+\newblock On the spectrum of stiffness matrices arising from isogeometric
+  analysis.
+\newblock {\em Numer. Math.}, 127(4):751--799, 2014.
+
+\bibitem{chb_iga_book}
+Y.~Bazilevs J.A.~Cottrell, T.J.R.~Hughes.
+\newblock {\em Isogeometric Analysis: Toward Integration of CAD and FEA}.
+\newblock Wiley, 2009.
+
+\bibitem{melenk02}
+J.M. Melenk.
+\newblock On condition numbers in {$hp$}-{FEM} with {G}auss-{L}obatto-based
+  shape functions.
+\newblock {\em J. Comput. Appl. Math.}, 139(1):21--48, 2002.
+
+\bibitem{pavarino_scacchi}
+L.F. Pavarino and S.~Scacchi.
+\newblock Isogeometric block {FETI}-{DP} preconditioners for the {S}tokes and
+  mixed linear elasticity systems.
+\newblock {\em Comput. Methods Appl. Mech. Engrg.}, 310:694--710, 2016.
+
+\bibitem{qvb}
+A.~Quarteroni and A.~Valli.
+\newblock {\em {Numerical Approximation of Partial Differential Equations}}.
+\newblock Springer Verlag, Heidelberg, 1994.
+
+\bibitem{sangalli_tani_sisc}
+G.~Sangalli and M.~Tani.
+\newblock Isogeometric preconditioners based on fast solvers for the
+  {S}ylvester equation.
+\newblock {\em SIAM J. Sci. Comput.}, 38(6):A3644--A3671, 2016.
+
+\bibitem{vander2003}
+H.A. van~der Vorst.
+\newblock {\em Iterative {K}rylov methods for large linear systems}.
+\newblock Cambridge University Press, Cambridge, 2003.
+
+\end{thebibliography}
